@@ -1,1 +1,1 @@
-# intro_db
+# Archivos correspondientes a Introducción a Base de Datos
